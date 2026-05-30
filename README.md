@@ -1,14 +1,12 @@
-## 👋 Hi, I’m shubham Jha
-- 👀 I’m interested in Web Development    
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me - visit https://shubhamkumarjha.in or Drop e-mail @ shubham71099@gmail.com
-###    Aspiring Full Stack Developer from India
-<img src="https://camo.githubusercontent.com/ae6ce8513738f7d4d8d566a2f215a5bc7f65f39ddb91739e7f5bb94a5ac7a172/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" width="420" height="250"></img>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham71099&layout=compact&langs_count=10)
+## 👋 Hi, I'm Shubham Jha
 
+- 🔭 Currently working as **SDE-1 at DevX AI Labs**, building full-stack web applications
+- 🛠️ I work with **Next.js, React, Spring Boot, Node.js, TypeScript, PostgreSQL**
+- 🚀 Recently built [aboutMe](https://aboutme-io.vercel.app/) — a developer portfolio platform
+- 💞️ Open to collaborating on interesting open source projects
+- 📫 Reach me at [shubhamkumarjha.in](https://shubhamkumarjha.in) or shubham71099@gmail.com
 
-<br><br>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham71099&show_icons=true&theme=highcontrast)
-
+### Full Stack Developer from Surat, India
+![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<br>
+![GitHub Streak](https://streak-stats.demolab.com?user=shubham71099&theme=highcontrast)
